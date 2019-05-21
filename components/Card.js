@@ -3,6 +3,7 @@ import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
 import { FontAwesome } from "@expo/vector-icons";
 import styled from "styled-components";
 
+
 export default class Card extends React.Component {
   render() {
     let icon_name = "question";
